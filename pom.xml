@@ -36,6 +36,12 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
+        <!-- spring-boot-starter-websocket -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-websocket</artifactId>
+        </dependency>
+
         <!--lombok启动不起来 https://blog.csdn.net/qq_57319760/article/details/144302518  -->
         <dependency>
             <groupId>org.projectlombok</groupId>
